@@ -1,0 +1,6 @@
+{
+    "require": {
+        "alexbilbie/mongoqb": "*",
+        "symfony/yaml": "*"
+    }
+}
